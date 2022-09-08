@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "DiscordBot-Mongoose-Porfolio-Ejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Porfolio",
+    "Website",
+    "Mongoose",
+    "Website",
+    "Discord",
+    "Bot",
+    "Discord",
+    "Panel",
+    "Ejs",
+    "Website"
+  ],
+  "author": "WestyDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
